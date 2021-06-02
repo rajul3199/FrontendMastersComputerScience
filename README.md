@@ -1,2 +1,2 @@
-# FrontendMastersComputerScience
+# algorithms-exercises
 Created with CodeSandbox
